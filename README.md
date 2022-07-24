@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrayPan
-- 👀 I’m interested in Matlab, LabVIEW and Python
+- 👀 I’m interested in data analysis with Matlab, Python, VBA and etc.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
